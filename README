@@ -28,6 +28,7 @@ The Setup Site will first load to setup and configure a new installation. Once
 installed and configured, the Shop and Admin Sites can be reached with:
 
 http://demo.oscommerce.com/index.php (for Shop)
+
 http://demo.oscommerce.com/index.php?Admin (for Admin)
 
 Please note that the Setup Site is still reachable but is locked down. To
@@ -44,3 +45,5 @@ osCommerce/OM/Custom
 
 The Custom directory can mimick the Core directory to override core files with
 customizations.
+
+[Oscommerce Programmers](https://www.chrisranjana.com/oscommerce-customize/oscommerce-customize.html)
